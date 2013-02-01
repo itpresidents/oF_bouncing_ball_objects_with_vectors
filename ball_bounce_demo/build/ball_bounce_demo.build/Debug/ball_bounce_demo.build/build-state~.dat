@@ -1,317 +1,0 @@
-Tball_bounce_demo
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Info.plist openFrameworks-Info.plist
-cProcessPCH++ /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c00000000503F1B7700000000000000AA
-t1346313079
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-c0000000050A40CDE000000000000058C
-t1352928478
-s1420
-
-N/System/Library/Frameworks/AGL.framework/AGL
-c000000004F733391000000000001BA10
-t1332949905
-s113168
-
-N/System/Library/Frameworks/Accelerate.framework/Accelerate
-c000000004F73337400000000000064D0
-t1332949876
-s25808
-
-N/System/Library/Frameworks/AppKit.framework/AppKit
-c00000000506493D800000000021F3F70
-t1348768728
-s35602288
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c000000004F73336A000000000000B750
-t1332949866
-s46928
-
-N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c00000000506493DB00000000003AA4D0
-t1348768731
-s3843280
-
-N/System/Library/Frameworks/Carbon.framework/Carbon
-c000000004F73336A0000000000006530
-t1332949866
-s25904
-
-N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-c000000004F90DC8100000000000005FE
-t1334893697
-s1534
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004F73336A0000000000006560
-t1332949866
-s25952
-
-N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
-c00000000506493DB00000000001195D0
-t1348768731
-s1152464
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c00000000501FFF58000000000060FA80
-t1344274264
-s6355584
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c000000004F73336B000000000000B870
-t1332949867
-s47216
-
-N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c000000004F73336B000000000007CED0
-t1332949867
-s511696
-
-N/System/Library/Frameworks/IOKit.framework/IOKit
-c00000000506493E70000000000120F60
-t1348768743
-s1183584
-
-N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c00000000506493EC000000000002D360
-t1348768748
-s185184
-
-N/System/Library/Frameworks/QTKit.framework/QTKit
-c00000000506493F100000000004B9FB0
-t1348768753
-s4956080
-
-N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c00000000506493F1000000000032B7E0
-t1348768753
-s3323872
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/../../../libs/glut/lib/osx/GLUT.framework
-c000000005083450A00000000000000CC
-t1350780170
-s204
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/../../../libs/glut/lib/osx/GLUT.framework/GLUT
-c000000005083450A0000000000093570
-t1350780170
-s603504
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Frameworks/GLUT.framework
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Info.plist
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/MacOS/ball_bounce_demoDebug
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/PkgInfo
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/ball_bounce_demoDebug.LinkFileList
-c00000000510BE0D70000000000000139
-t1359732951
-s313
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o
-t2
-s0
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-c00000000510BE0D70000000000000114
-t1359732951
-s276
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp
-c00000000510BDF23000000000000019E
-t1359732515
-s414
-i"ofMain.h"
-i"testApp.h"
-i"ofAppGlutWindow.h"
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp
-c00000000510BE0D20000000000000555
-t1359732946
-s1365
-
-N/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.h
-c00000000510BE0D30000000000000222
-t1359732947
-s546
-
-N/Users/NY/Documents/of_v0072_osx_release/libs/openFrameworks/app/ofAppGlutWindow.h
-c000000005083450A0000000000000701
-t1350780170
-s1793
-
-N/Users/NY/Documents/of_v0072_osx_release/libs/openFrameworks/ofMain.h
-c000000005083450A0000000000000686
-t1350780170
-s1670
-
-N/Users/NY/Documents/of_v0072_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
-c0000000050A5478800000000015471B8
-t1353009032
-s22311352
-
-N/var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-fabkxnhnxpizufeooohhfhewqnti/Carbon.h.pth
-t2
-s0
-
-N/var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth
-t2
-s0
-
-NopenFrameworks-Info.plist
-c00000000510BDF230000000000000277
-t1359732515
-s631
-
-CBuild AST from /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp
-r0
-
-CBuild AST from /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8923e35618bcb641^ae630c5718bcb641^---0#1#0#--18"Check dependencies36"094EFEA5-D420-47DA-9038-B56A1F53C6A1-
-
-CCompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s381425767.650684
-e381425769.374301
-r1
-xCompileC
-xbuild/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o
-x/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp61a9a66718bcb641^d8d65f6918bcb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present-0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp0000000000000000^3251"CompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -g -mssse3 -Wno-sign-conversion -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/ball_bounce_demoDebug.hmap -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources/i386 -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h -MMD -MT dependencies -MF /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.dia -c /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/main.cpp -o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/main.o36"4B7FF23A-2E98-4946-9E29-42D430FFEA42-
-
-CCompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s381425767.650689
-e381425768.973083
-r0
-xCompileC
-xbuild/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o
-x/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-o/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp:16:5: error: use of undeclared identifier 'ellipse'
-o    ellipse(xPos, yPos, diam, diam);
-o    ^
-o1 error generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp82a9a66718bcb641^9887fc6818bcb641^-270"clang: warning: -lpthread: 'linker' input unused when '-c' is present/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp:16:5: error: use of undeclared identifier 'ellipse'    ellipse(xPos, yPos, diam, diam);    ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@38"Use of undeclared identifier 'ellipse'-381425768#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@101"file://localhost/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp0000000000000000^15#4#15#4#303#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp0000000000000000^3269"CompileC build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -g -mssse3 -Wno-sign-conversion -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/ball_bounce_demoDebug.hmap -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources/i386 -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h -MMD -MT dependencies -MF /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.d --serialize-diagnostics /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.dia -c /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/src/testApp.cpp -o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Objects-normal/i386/testApp.o36"E2BF557E-6461-413F-9B21-B0D46C8894FA-
-
-CLd /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/MacOS/ball_bounce_demoDebug normal i386
-r0
-
-CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/ball_bounce_demoDebug.app/Contents/Frameworks/GLUT.framework
-r0
-
-CPhaseScriptExecution "Run Script" /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
-r0
-
-CProcessInfoPlistFile /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Info.plist openFrameworks-Info.plist
-s381425751.087565
-e381425751.151781
-r1
-xProcessInfoPlistFile
-x/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Info.plist
-xopenFrameworks-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plist2c2e1e5718bcb641^2bdc265718bcb641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/openFrameworks-Info.plist0000000000000000^519"ProcessInfoPlistFile bin/ball_bounce_demoDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app/Contents/Info.plist36"26E7AF12-9C52-461C-9095-8188E87A686F-
-
-CProcessPCH++ /Users/NY/Library/Developer/Xcode/DerivedData/ball_bounce_demo-gmbsshnzgogbbjarkuvrkcwnacbg/Index/PrecompiledHeaders/Carbon-awpdwgekfhecwnfxvaekmaqjdhdu_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /Users/NY/Library/Developer/Xcode/DerivedData/ball_bounce_demo-gmbsshnzgogbbjarkuvrkcwnacbg/Index/PrecompiledHeaders/Carbon-eitthswiyavsyaboxmqitqvczwuk_ast/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH++ /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-fabkxnhnxpizufeooohhfhewqnti/Carbon.h.pth /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH++ /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s381425751.160515
-e381425767.643701
-r1
-xProcessPCH++
-x/var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth
-x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oclang: warning: -lpthread: 'linker' input unused when '-c' is present
-oIn file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:
-oIn file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:131:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]
-o  CMProfileHandle     profile;
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:132:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]
-o  CMColor             color;
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:139:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]
-o  CMProfileRef        profile;
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:140:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]
-o  CMColor             color;
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:310:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]
-o  CMProfileHandle     dstProfile;
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:328:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]
-o  CMProfileRef        dstProfile;             /* Currently ignored */
-o  ^
-oIn file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:
-oIn file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:54:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
-o  CMDisplayIDType     displayID;              /* Contains an hDC on Win32 */
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:56:3: warning: 'CMProfileLocation' is deprecated [-Wdeprecated-declarations]
-o  CMProfileLocation * profileLocationPtr;     /* For returning the profile */
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:61:55: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
-otypedef CALLBACK_API( Boolean , CanCalibrateProcPtr )(CMDisplayIDType displayID, Str255 errMessage);
-o                                                      ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:154:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
-o  CMDisplayIDType  displayID,
-o  ^
-o/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:180:87: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]
-o    inline Boolean                                              InvokeCanCalibrateUPP(CMDisplayIDType displayID, Str255 errMessage, CanCalibrateUPP userUPP) { return (*userUPP)(displayID, errMessage); }
-o                                                                                      ^
-o11 warnings generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.hda58295718bcb641^00c9a46718bcb641^-3334"clang: warning: -lpthread: 'linker' input unused when '-c' is presentIn file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:131:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]  CMProfileHandle     profile;  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:132:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]  CMColor             color;  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:139:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]  CMProfileRef        profile;  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:140:3: warning: 'CMColor' is deprecated [-Wdeprecated-declarations]  CMColor             color;  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:310:3: warning: 'CMProfileHandle' is deprecated [-Wdeprecated-declarations]  CMProfileHandle     dstProfile;  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h:328:3: warning: 'CMProfileRef' is deprecated [-Wdeprecated-declarations]  CMProfileRef        dstProfile;             /* Currently ignored */  ^In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:54:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]  CMDisplayIDType     displayID;              /* Contains an hDC on Win32 */  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:56:3: warning: 'CMProfileLocation' is deprecated [-Wdeprecated-declarations]  CMProfileLocation * profileLocationPtr;     /* For returning the profile */  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:61:55: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]typedef CALLBACK_API( Boolean , CanCalibrateProcPtr )(CMDisplayIDType displayID, Str255 errMessage);                                                      ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:154:3: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]  CMDisplayIDType  displayID,  ^/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h:180:87: warning: 'CMDisplayIDType' is deprecated [-Wdeprecated-declarations]    inline Boolean                                              InvokeCanCalibrateUPP(CMDisplayIDType displayID, Str255 errMessage, CanCalibrateUPP userUPP) { return (*userUPP)(displayID, errMessage); }                                                                                      ^11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@31"'CMProfileHandle' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^130#2#130#2#3573#0#12"Deprecations--2@23"'CMColor' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^131#2#131#2#3604#0#12"Deprecations--2@28"'CMProfileRef' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^138#2#138#2#3780#0#12"Deprecations--2@23"'CMColor' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^139#2#139#2#3811#0#12"Deprecations--2@31"'CMProfileHandle' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^309#2#309#2#10632#0#12"Deprecations--2@28"'CMProfileRef' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:33:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^32#9#32#9#656#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/ColorPicker.h0000000000000000^327#2#327#2#11173#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^53#2#53#2#1128#0#12"Deprecations--2@33"'CMProfileLocation' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^55#2#55#2#1296#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^60#54#60#54#1620#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^153#2#153#2#4291#0#12"Deprecations--2@31"'CMDisplayIDType' is deprecated-381425767#18446744073709551615#0#2(2@86"In file included from /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h:55:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^54#9#54#9#1035#0#21"Clang LLVM 1.0 Notice--2@126"In file included from /System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h:37:-381425767#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CommonPanels.h0000000000000000^36#9#36#9#727#0#21"Clang LLVM 1.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/System/Library/Frameworks/Carbon.framework/Frameworks/CommonPanels.framework/Headers/CMCalibrator.h0000000000000000^179#86#179#86#5686#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^3158"ProcessPCH++ /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -fasm-blocks -Wdeprecated-declarations -Wno-invalid-offsetof -g -mssse3 -Wno-sign-conversion -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/ball_bounce_demoDebug.hmap -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources/i386 -I/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/build/ball_bounce_demo.build/Debug/ball_bounce_demo.build/DerivedSources -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin -F/Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native --serialize-diagnostics /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.dia -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.pth -MMD -MT dependencies -MF /var/folders/zt/kgkv4p0x1d1bhp3y4t8sv9d80000gq/C/com.apple.Xcode.503/SharedPrecompiledHeaders/Carbon-gokommbwruwhevakummxymhahhwa/Carbon.h.d36"599CBB32-C2A0-45A8-BE30-FCFC3E3DD00C-
-
-CTouch /Users/NY/Documents/of_v0072_osx_release/apps/myApps/ball_bounce_demo/bin/ball_bounce_demoDebug.app
-r0
-
