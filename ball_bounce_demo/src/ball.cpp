@@ -19,7 +19,7 @@ ball::ball(){
     
      diam = 50;//set size of ball
     
-    //set random speeds from the ball
+    //set random speeds for the ball
     xSpeed = ofRandom(.05,.08);
     ySpeed = xSpeed;
     
@@ -40,16 +40,11 @@ void ball::update(){
     
     if(xPos - diam/2<0 || xPos + diam/2>ofGetWidth()){
         xSpeed *=-1;
-        
-        
-       
-        
-        
+               
     }
     
-   if(yPos - diam<0 || yPos + diam>ofGetHeight()){
+   if(yPos - diam/2<0 || yPos + diam/2>ofGetHeight()){
        ySpeed *=-1;xPos;
-       
        
         }
 
